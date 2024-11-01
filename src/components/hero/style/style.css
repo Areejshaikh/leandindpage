@@ -1,0 +1,7 @@
+.bg-img {
+    background:url(../../../../public/home.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.95;
+}
